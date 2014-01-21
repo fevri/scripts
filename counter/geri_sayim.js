@@ -1,4 +1,4 @@
-// geri sayım
+// geri sayım / Count down
 
 (function($) {
 	
