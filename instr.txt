@@ -1,3 +1,13 @@
 git status
 git add dosyaname
 git push origin master 
+
+---
+
+
+Repositories
+NEW
+touch turgut.txt
+git add turgut.txt
+git commit -m "first"
+git push -u origin master
